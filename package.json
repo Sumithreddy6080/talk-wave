@@ -1,0 +1,19 @@
+{
+  "name": "talk-wave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon Backend/server.js"
+  },
+  "author": "sumith reddy",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-async-handler": "^1.2.0",
+    "mongoose": "^8.3.0",
+    "nodemon": "^3.1.0"
+  }
+}
